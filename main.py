@@ -12,7 +12,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from GMC import CarParkTool
+from gmc import CarParkTool
 
 __CHANNEL_USERNAME__ = "GMC"
 __GROUP_USERNAME__   = "GMC"
