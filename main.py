@@ -173,7 +173,7 @@ if __name__ == "__main__":
             print(Colorate.Horizontal(Colors.rainbow, '{06}: Change Name (Rainbow)    1.00'))
             print(Colorate.Horizontal(Colors.rainbow, '{07}: Number Plates            2.000K'))
             print(Colorate.Horizontal(Colors.rainbow, '{08}: Account Delete           FREE'))
-            print(Colorate.Horizontal(Colors.rainbow, '{09}: ccount Register          FREE'))
+            print(Colorate.Horizontal(Colors.rainbow, '{09}: Account Register          FREE'))
             print(Colorate.Horizontal(Colors.rainbow, '{10}: Delete Friends           5.00'))
             print(Colorate.Horizontal(Colors.rainbow, '{11}: Unlock Paid Cars         4.000K'))
             print(Colorate.Horizontal(Colors.rainbow, '{12}: Unlock all Cars          3.000K'))
